@@ -22,7 +22,7 @@ body {
 
 /* Header */
 header {
-  background-color: #4CAF50;
+  background-color: #4169E1;
   color: white;
   padding: 40px 0;
   text-align: center;
@@ -103,7 +103,7 @@ header p {
 }
 
 #contact a {
-  color: #4CAF50;
+  color: #4169E1;
   text-decoration: none;
 }
 
